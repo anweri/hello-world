@@ -1,6 +1,5 @@
 # hello-world
-Tutorial
-Recent changes to be commited
+
 def get_page(page):
     import urllib2
     respone = urllib2.urlopen("http://www.google.com")
