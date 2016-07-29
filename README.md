@@ -7,4 +7,4 @@ def get_page(page):
 print html
 
 
-above code reads the page source of any given URL for exapmle i have given google as the URL
+above code reads the page source of any given URL for example i have given google as the URL
